@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
         "./interactive-question-sheet/modules"
-    ]
+    ],
+    "git.autofetch": true
 }
